@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem 'httparty'
+gem 'httparty', '>= 0.16.2'
 gem 'json'
 gem 'multi_xml', '>= 0.5.2'
 gem 'webmock'
